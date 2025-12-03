@@ -367,4 +367,11 @@
     <string name="language_picker_page">Language picker page</string>
     <string name="search_region">Search regions</string>
     <string name="search_region_page">Search region page</string>
+
+    <!-- Status bar - Brightness -->
+    <string name="status_bar_brightness_slider_title">Brightness slider</string>
+    <string name="status_bar_brightness_slider_summary">Adjust brightness from the Quick Settings</string>
+    <string name="status_bar_brightness_slider_position_title">Brightness slider position</string>
+    <string name="status_bar_brightness_slider_position_top">Top</string>
+    <string name="status_bar_brightness_slider_position_bottom">Bottom</string>
 </resources>
